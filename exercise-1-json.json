@@ -1,0 +1,37 @@
+2.5: JSON Exercise 1
+
+{
+  "Monday": {
+    "description": "sunny",
+    "maxTemp": 22,
+    "minTemp": 20,
+    "windSpeed": 12,
+    "danger": false,
+  }
+}
+
+{
+  "forecast": [
+    {
+    "Monday": {
+      "description": "sunny",
+      "maxTemp": 22,
+      "minTemp": 20,
+      "windSpeed": 12,
+      "danger": false
+    }
+  },
+  {
+    "Tuesday": {
+      "description": "windy",
+      "maxTemp": 22,
+      "minTemp": 20,
+      "windSpeed": 40,
+      "danger": true
+    }
+  },
+    {
+    "Wednesday": null,
+    }
+  ]
+}
