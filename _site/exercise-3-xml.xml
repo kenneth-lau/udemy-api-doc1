@@ -3,7 +3,9 @@
 
 ## Step 1
 -->
-<!-- <?xml version="1.0" ?> -->
+
+<!-->
+<?xml version="1.0" ?>
   <dailyForecast>
     <date>2015-06-01</date>
     <description>sunny</description>
@@ -12,12 +14,10 @@
     <windSpeed unit="kph">12</windSpeed>
     <danger>false</danger>
   </dailyForecast>
-
+-->
 <!-- ## Step 2 -->
 
-<!-- 
 <?xml version="1.0" ?> 
--->
   <forecast>
     <dailyForecast>
       <date>2015-06-01</date>
