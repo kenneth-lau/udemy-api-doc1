@@ -1,4 +1,7 @@
 # Notes from the "Learn API Technical Writing 1" course
+
+GitHub Pages website: https://kenneth-lau.github.io/udemy-api-doc1/
+
 For more information, see [Learn API Technical Writing: JSON and XML for Writers](https://www.udemy.com/api-documentation-1-json-and-xml/).
 
 ## Exercises
